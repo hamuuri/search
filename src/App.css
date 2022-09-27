@@ -25,9 +25,6 @@ nav {
   grid-column-gap: 20px;
   padding: 0;
 }
-.searchbar {
-	width: 200px;
-}
 input[type='text'],
 input [type='number'] {
   border-style: solid;
