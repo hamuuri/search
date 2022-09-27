@@ -7,7 +7,7 @@ class Results extends React.Component {
 		return(
 			<>
 			<nav>
-		      <img alt="Google" src="images/google.png" />
+		      <img alt="Google" src="google.png" />
 		      <form>
 		        <input className="searchbar" type="text" title="Search" />
 		        <button className="button" type="button">Search</button>
