@@ -1,7 +1,7 @@
 import React from "react";
 import "./index.css";
 
-class Seatch extends React.Component {
+class Search extends React.Component {
   state = {
     search: "",
   };
