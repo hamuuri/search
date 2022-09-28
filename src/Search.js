@@ -1,7 +1,7 @@
 import React from "react";
 import "./index.css";
 
-class App extends React.Component {
+class Seatch extends React.Component {
   state = {
     search: "",
   };
@@ -33,4 +33,4 @@ class App extends React.Component {
   }
 }
 
-export default App;
+export default Search;
